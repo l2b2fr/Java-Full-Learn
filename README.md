@@ -31,6 +31,12 @@ git branch -M main
 git push -u origin main
 ```
 
+Hướng dẫn cách cập nhật code "pull code về"
+```
+cd Java-Full-Learn
+git pull origin main
+```
+
 ## Tác Giả
 
 - Tên Tác Giả : Lê Minh Nam
