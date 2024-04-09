@@ -13,7 +13,7 @@ public class exerciseOpp1 {
 
         library.listBook();
 
-        System.out.println("Nhập mã sách muốn xóa: ");
+        System.out.println("\nNhập mã sách muốn xóa: ");
         int id = scanner.nextInt();
         library.deleteBook(id);
         library.listBook();
